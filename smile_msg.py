@@ -1,0 +1,1 @@
+print("Smile you're on Candid Camera")
